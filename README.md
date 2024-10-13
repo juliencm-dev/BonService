@@ -1,7 +1,5 @@
 # Bon Service
 
-link: <a href="https://bonservice.app" >Bon Service</a>
-
 ## Presentation
 
 Bon Service is an application dedicated to managing and sharing recipes within a kitchen team. It allows chefs to centralize and organize their recipes, facilitating collaboration and culinary innovation.
